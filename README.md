@@ -1,1 +1,1 @@
-# django-gep
+# django-geo
